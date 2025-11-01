@@ -5,7 +5,7 @@ function App() {
     <>
       <section className="h-screen w-screen flex justify-center items-center bg-[#E6EFF6]">
         <div className="h-[720px] w-[315px] md:h-[474px] md:w-[635px] rounded-lg shadow-lg">
-          <div className="h-[40%] w-full md:h-[50%] box-border px-5 py-8 md:p-10 rounded-t-lg">
+          <div className="h-[40%] w-full md:h-[50%] box-border px-5 py-8 bg-white md:p-10 rounded-t-lg">
             <h1 className="text-[#2BB3B1] font-bold md:font-semi-bold text-lg md:text-2xl mb-7">
               Join our community
             </h1>
